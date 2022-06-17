@@ -1,3 +1,5 @@
 # hi this is pasword generator by flask
 
-<h2>additional details will added soon....</h2>
+<body>
+    <h1>let's try..</h1>
+</body>
